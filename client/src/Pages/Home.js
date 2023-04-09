@@ -1,6 +1,4 @@
-/* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from 'react';
-import { getGeocode, getLatLng } from 'use-places-autocomplete';
 import Map from '../Components/Map';
 import * as api from '../api';
 
